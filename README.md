@@ -46,3 +46,13 @@ Upstream node metadata: copyright n8n team, used under the [n8n Sustainable Use 
 ## Maintainer
 
 [AutomateLab](https://automatelab.tech)
+
+## Maintenance and verification
+
+See [the maintenance guide](docs/maintenance-guide.md) for interpretation limits, current tool names where applicable, and reproducible verification.
+
+## October 2026 snapshot
+
+533 node records, extracted from the pinned official n8n@2.42.7 source. Metadata is not a runtime compatibility test.
+
+Snapshot prepared 12 October 2026. Publication time is recorded separately in the release receipt.
